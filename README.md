@@ -8,6 +8,7 @@ This project focuses on building a solid foundation using simple but powerful pa
 - **Trees**
 - **Linked Lists**
 - **Search & Sort Algorithms**
+- **Date & Time Handling**
 - **Functional programming** (`map`, `filter`, `reduce`)
 
 ---
@@ -33,6 +34,7 @@ DailyCodeLab/
 - 🔍 Linear Search in all 3 languages
 - 🌀 Bubble Sort in all 3 languages
 - 🧠 Functional programming: map, filter, reduce
+- 🕒 Date & Time formatting, parsing, localization, and manipulation
 - ⚙️ Easy project setup with scripts
 - 🧪 Daily code structure for learning by doing
 
@@ -73,12 +75,4 @@ dotnet run
 
 ---
 
-## 💡 What’s Next
 
-- Add more tree traversal methods (pre-order, post-order, breadth-first)
-Add doubly linked list
-Add more search & sort algorithms (binary search, insertion sort, merge sort)
-Build console mini tools with these structures
-Add changelog & visual README badges
-
----
