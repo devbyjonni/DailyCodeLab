@@ -5,5 +5,7 @@
         StackDemo.RunStackDemo();
         Functional.runFunctionalDemo();
         QueueDemo.RunQueueDemo();
+        TreeDemo.RunTreeDemo();
+
     }
 }
