@@ -1,6 +1,3 @@
-### ✅ Updated `README.md`
-
-```markdown
 # 🧪 DailyCodeLab
 
 Welcome to **DailyCodeLab** — a multilingual coding playground for learning and practicing core programming concepts in **Swift**, **Python**, and **C#**.  
