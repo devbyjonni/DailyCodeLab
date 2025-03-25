@@ -1,7 +1,16 @@
+### ✅ Updated `README.md`
+
+```markdown
 # 🧪 DailyCodeLab
 
 Welcome to **DailyCodeLab** — a multilingual coding playground for learning and practicing core programming concepts in **Swift**, **Python**, and **C#**.  
-This project focuses on building a solid foundation using simple but powerful patterns like **stacks** and **functional programming** (`map`, `filter`, `reduce`).
+This project focuses on building a solid foundation using simple but powerful patterns like:
+
+- **Stacks**
+- **Queues**
+- **Trees**
+- **Linked Lists**
+- **Functional programming** (`map`, `filter`, `reduce`)
 
 ---
 
@@ -9,9 +18,9 @@ This project focuses on building a solid foundation using simple but powerful pa
 
 ```
 DailyCodeLab/
-├── python/       # Python stack & functional examples
-├── swift/        # Swift package with stack & functional demo
-├── csharp/       # .NET console app with stack & LINQ examples
+├── python/       # Python data structures & functional demos
+├── swift/        # Swift package with all core structures & FP
+├── csharp/       # .NET console app with data structures & LINQ
 └── scripts/      # Setup scripts for each language
 ```
 
@@ -19,10 +28,13 @@ DailyCodeLab/
 
 ## 🚀 Features
 
-- 🔁 Stack implementation in each language
+- 🔁 Stack implementation in Swift, Python, and C#
+- 🚶‍♂️ Queue implementation in all 3 languages
+- 🌳 Binary Tree with insert, in-order traversal, and find
+- 🔗 Linked List with append, prepend, delete, and contains
 - 🧠 Functional programming: map, filter, reduce
-- 🧪 Daily code structure for hands-on practice
-- ⚙️ Easy project setup using scripts
+- ⚙️ Easy project setup with scripts
+- 🧪 Daily code structure for learning by doing
 
 ---
 
@@ -63,9 +75,10 @@ dotnet run
 
 ## 💡 What’s Next
 
-- Add queue and tree structures
-- Explore error handling patterns
-- Build mini apps for practice
-- More functional challenges!
+- Add more tree traversal methods (pre-order, post-order, breadth-first)
+- Add doubly linked list
+- Add search & sort algorithms
+- Build console mini tools with these structures
+- Add changelog & visual README badges
 
 ---

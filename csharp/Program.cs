@@ -6,6 +6,6 @@
         Functional.runFunctionalDemo();
         QueueDemo.RunQueueDemo();
         TreeDemo.RunTreeDemo();
-
+        LinkedListDemo.RunLinkedListDemo();
     }
 }
