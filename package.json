@@ -1,0 +1,21 @@
+{
+  "name": "dailycodelab",
+  "version": "1.0.0",
+  "description": "Welcome to **DailyCodeLab** — a multilingual coding playground for learning and practicing core programming concepts in **Swift**, **Python**, and **C#**.   This project focuses on building a solid foundation using simple but powerful patterns like:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbyjonni/DailyCodeLab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbyjonni/DailyCodeLab/issues"
+  },
+  "homepage": "https://github.com/devbyjonni/DailyCodeLab#readme"
+}
