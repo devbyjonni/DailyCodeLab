@@ -22,3 +22,5 @@ obj/
 # Logs or temp files
 *.log
 *.tmp
+
+python/.venv/
