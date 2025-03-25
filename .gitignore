@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Swift
+.build/
+.swiftpm/
+Package.resolved
+
+# C#
+bin/
+obj/
+
+# macOS system files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs or temp files
+*.log
+*.tmp
