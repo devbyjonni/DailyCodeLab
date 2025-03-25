@@ -7,5 +7,7 @@
         QueueDemo.RunQueueDemo();
         TreeDemo.RunTreeDemo();
         LinkedListDemo.RunLinkedListDemo();
+        SearchSort.RunSearchSortDemo();
+
     }
 }

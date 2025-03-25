@@ -7,6 +7,7 @@ This project focuses on building a solid foundation using simple but powerful pa
 - **Queues**
 - **Trees**
 - **Linked Lists**
+- **Search & Sort Algorithms**
 - **Functional programming** (`map`, `filter`, `reduce`)
 
 ---
@@ -29,6 +30,8 @@ DailyCodeLab/
 - 🚶‍♂️ Queue implementation in all 3 languages
 - 🌳 Binary Tree with insert, in-order traversal, and find
 - 🔗 Linked List with append, prepend, delete, and contains
+- 🔍 Linear Search in all 3 languages
+- 🌀 Bubble Sort in all 3 languages
 - 🧠 Functional programming: map, filter, reduce
 - ⚙️ Easy project setup with scripts
 - 🧪 Daily code structure for learning by doing
@@ -73,9 +76,9 @@ dotnet run
 ## 💡 What’s Next
 
 - Add more tree traversal methods (pre-order, post-order, breadth-first)
-- Add doubly linked list
-- Add search & sort algorithms
-- Build console mini tools with these structures
-- Add changelog & visual README badges
+Add doubly linked list
+Add more search & sort algorithms (binary search, insertion sort, merge sort)
+Build console mini tools with these structures
+Add changelog & visual README badges
 
 ---
