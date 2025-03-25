@@ -13,3 +13,15 @@ class MyStack:
 
     def print_stack(self):
         print(self.stack)
+
+
+def run_stack_demo():
+    print("\n🔁 Stack Demo")
+    stack = MyStack()
+    stack.push(1)
+    stack.push(2)
+    stack.push(3)
+    stack.print_stack()
+    print("Popped:", stack.pop())
+    print("Peek:", stack.peek())
+    stack.print_stack()

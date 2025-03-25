@@ -6,7 +6,7 @@ public class MyStack<T>
     private List<T> list = new List<T>();
 
     public void Push(T item) => list.Add(item);
-    public T Pop()
+    public T? Pop()
     {
         if (list.Count == 0) return default;
         var item = list[^1];
@@ -14,7 +14,7 @@ public class MyStack<T>
         return item;
     }
 
-    public T Peek() => list.Count > 0 ? list[^1] : default;
+    public T? Peek() => list.Count > 0 ? list[^1] : default;
     public void Print() => Console.WriteLine(string.Join(", ", list));
 }
 
@@ -22,7 +22,7 @@ public static class StackDemo
 {
     public static void RunStackDemo()
     {
-        Console.WriteLine("🔁 Stack Demo");
+        Console.WriteLine("\n🔁 Stack Demo");
         var stack = new MyStack<int>();
         stack.Push(1);
         stack.Push(2);
