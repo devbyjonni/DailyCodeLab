@@ -8,6 +8,6 @@
         TreeDemo.RunTreeDemo();
         LinkedListDemo.RunLinkedListDemo();
         SearchSort.RunSearchSortDemo();
-
+        DateTimeDemo.RunDateTimeDemo();
     }
 }
