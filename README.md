@@ -1,6 +1,6 @@
 # 🧪 DailyCodeLab
 
-Welcome to **DailyCodeLab** — a multilingual coding playground for learning and practicing core programming concepts in **Swift**, **Python**, and **C#**.  
+Welcome to **DailyCodeLab** — a multilingual coding playground for learning and practicing core programming concepts in **Swift**, **Python**, **C#**, and **JavaScript**.  
 This project focuses on building a solid foundation using simple but powerful patterns like:
 
 - **Stacks**
@@ -20,6 +20,7 @@ DailyCodeLab/
 ├── python/       # Python data structures & functional demos
 ├── swift/        # Swift package with all core structures & FP
 ├── csharp/       # .NET console app with data structures & LINQ
+├── javaScript/   # JavaScript demos with ES Modules
 └── scripts/      # Setup scripts for each language
 ```
 
@@ -72,6 +73,13 @@ swift run
 cd csharp
 dotnet run
 ```
+
+**JavaScript**
+```bash
+cd javaScript
+node main.js
+```
+
 
 ---
 
