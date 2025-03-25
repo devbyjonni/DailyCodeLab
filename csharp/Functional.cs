@@ -6,6 +6,7 @@ public static class Functional
 {
     public static void runFunctionalDemo()
     {
+        Console.WriteLine("\n🧪 Functional Demo");
         var nums = new List<int> { 1, 2, 3, 4, 5 };
         var mapped = nums.Select(x => x * 2).ToList();
         var filtered = nums.Where(x => x % 2 == 0).ToList();

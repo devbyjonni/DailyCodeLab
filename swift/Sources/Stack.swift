@@ -21,7 +21,7 @@ class MyStack {
 }
 
 func runStackDemo() {
-    print("🔁 Stack Demo")
+    print("\n🔁 Stack Demo")
     let stack = MyStack()
     stack.push(1)
     stack.push(2)
